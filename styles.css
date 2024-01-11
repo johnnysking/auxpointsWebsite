@@ -38,7 +38,7 @@ body { margin: 0;
     }
     
     #menu {
-      position:absolute;
+      /* position:absolute; */
       left: 5vw;
       top:-50vh;
       width:90vw;

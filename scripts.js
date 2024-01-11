@@ -285,11 +285,11 @@ var menuBtn = document.getElementById("menuBtn");
         menuBtn.onclick = function(){
             if (sidenav.style.right == "-250px"){
                 sidenav.style.right = "0";
-                // menu.src = "img/menuClose.png";
+                menu.src = "img/menuClose.png";
             }
             else{
                 sidenav.style.right = "-250px";
-                // menu.src = "img/menu.png";
+                menu.src = "img/menu.png";
             }            
         }
 
