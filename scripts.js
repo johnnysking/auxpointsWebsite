@@ -278,7 +278,7 @@ function showMenu() {
 
 var menuBtn = document.getElementById("menuBtn");
         var sidenav = document.getElementById("sidenav");
-        var menu = document.getElementById("menu");
+        var menu = document.getElementById("menuIcon");
 
         sidenav.style.right = "-250px";
 
